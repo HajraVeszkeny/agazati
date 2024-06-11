@@ -14,4 +14,4 @@ aktido = current[0] * 60 + current[1]
 if aktido > ido:
     print("A vizsa már véget ért!")
 else:
-    print(f"A vizsa hátralévő ideje: {aktido-ido} perc.")
+    print(f"A vizsga hátralévő ideje: {aktido-ido} perc.")
