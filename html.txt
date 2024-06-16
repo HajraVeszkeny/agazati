@@ -1,0 +1,17 @@
+látnivalók html rész 10.feladat
+
+<div class="row">
+	<div class="col-md-3 col-sm-6">
+	<img class="img-fluid" src="image/BudapestBoulvard.PNG" alt=""> <br>
+	<img class="img-fluid" src="image/Movie.PNG" alt=""> 
+	</div>
+</div>
+
+3. feladat
+<link rel="icon" href="image/Madame_Tussauds.svg">
+
+
+6. feladat navigacio
+<a href="index.html">
+	<img src="image/Budapest_logo.PNG" alt="Budapest" title="Budapest" class="fologo">
+</a>
